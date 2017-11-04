@@ -15,4 +15,4 @@ is blindfully gorgeous
 </br></br>
 ## Chart Four
 is the most beautifullest ever
-<img src="charts/chart_4.png" width="900" height="550">
+<img src="charts/chart_4.png" width="900" height="450">
