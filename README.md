@@ -7,7 +7,7 @@ is so beautiful
 </br></br>
 ## Chart Two
 is even more beautifuller
-<img src="charts/chart_2.png" width="900" height="550">
+<img src="charts/chart_2.png" width="900" height="600">
 </br></br>
 ## Chart Three
 is blindfully gorgeous
