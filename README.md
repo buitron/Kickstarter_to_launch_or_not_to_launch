@@ -3,4 +3,5 @@
 ## Chart One
 is so beautiful
 
-![chart_one](kickstart_to_launch_or_not_to_launch/charts/chart_1.png)
+</br></br>
+<img src="charts/chart_1.png" width="700" height="400">
