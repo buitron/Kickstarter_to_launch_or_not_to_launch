@@ -1,2 +1,5 @@
-# kickstart_my_chart
-unit one assignment for usc_datascience_bootcamp
+# Kickstart and it's Launching Dilema
+
+## Chart One
+is so beautiful
+
