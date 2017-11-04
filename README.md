@@ -1,7 +1,7 @@
 # Kickstart and it's Launching Dilema
 
 ## Chart One
-is so beautiful
+is so beautiful</br>
 <img src="charts/chart_1.png" width="700" height="400">
 
 
