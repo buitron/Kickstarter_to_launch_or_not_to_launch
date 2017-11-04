@@ -4,7 +4,6 @@
 is so beautiful
 </br>
 <img src="charts/chart_1.png" width="700" height="400">
-
 </br></br>
 ## Chart Two
 is even more beautifuller
