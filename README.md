@@ -1,7 +1,7 @@
 # Kickstarter and it's Funding Dilema
 
 ## Setting
-Kickstarter is crowdsourcing platform where a community of supporters can financially support an idea and/or an organization for the purpose of launching their proposed project. According to kickstarter.com, "`14 million people` have backed a project, `3.4 billion USD` has been pledged, and `134,115` projects have been successfully funded."
+Kickstarter is crowdsourcing platform where a community of supporters can financially support an idea and/or an organization for the purpose of launching their proposed project. According to kickstarter.com, "`14 million people` have backed a project, `3.4 billion USD` has been pledged, and `134,115 projects` have been successfully funded."
 
 ## Dilema
 Even though over three billion dollars have been raised in the 8 years of Kickstarter's existence only a third of the projects launched have made it through the funding process with a positive outcome.
