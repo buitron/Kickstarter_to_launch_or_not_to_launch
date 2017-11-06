@@ -7,7 +7,7 @@ Kickstarter is crowdsourcing platform where a community of supporters can financ
 Even though over three billion dollars have been raised in the 8 years of Kickstarter's existence only a third of the projects launched have made it through the funding process with a positive outcome.
 
 ## Question //consider changing the name of this heading
-Three question that upcoming projects should consider are:
+<strong>Considering only the US market.</strong> Three question that upcoming projects should consider are:
 * Is my project worth launching on this platform?
 * If it is, how much funding is optimal for this project?
 * And, is there an ideal time in the year to launch my project?
