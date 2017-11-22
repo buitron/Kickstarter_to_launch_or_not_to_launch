@@ -26,10 +26,10 @@ is even more beautifuller
 </br></br>
 ## Chart Three
 is blindfully gorgeous
-![bar chart 3](charts/chart_3.png "Cool Chart")
+![line graph](charts/chart_3.png "Cool Chart")
 <!-- <img src="charts/chart_3.png" width="900" height="550"> -->
 </br></br>
 ## Chart Four
 is the most beautifullest ever
-![line graph](charts/chart_4.png "Fun line")
+![line graph 2](charts/chart_4.png "Fun line")
 <!-- <img src="charts/chart_4.png" width="900" height="450"> -->
