@@ -17,7 +17,7 @@ Even though over three billion dollars have been raised in the 8 years of Kickst
 is so beautiful
 </br>
 ![line graph](charts/chart_1.png)
-<img src="charts/chart_1.png" width="700" height="400">
+` <img src="charts/chart_1.png" width="700" height="400">
 </br></br>
 ## Chart Two
 is even more beautifuller
