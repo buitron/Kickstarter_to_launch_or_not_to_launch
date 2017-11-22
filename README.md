@@ -16,12 +16,13 @@ Even though over three billion dollars have been raised in the 8 years of Kickst
 ## Chart One
 is so beautiful
 </br>
-![line graph](charts/chart_1.png)
-` <img src="charts/chart_1.png" width="700" height="400">
+![bar chart](charts/chart_1.png)
+` <img src="charts/chart_1.png" width="700" height="400"> `
 </br></br>
 ## Chart Two
 is even more beautifuller
-<img src="charts/chart_2.png" width="900" height="600">
+![bar chart 2](charts/chart_2.png)
+`<img src="charts/chart_2.png" width="900" height="600">
 </br></br>
 ## Chart Three
 is blindfully gorgeous
